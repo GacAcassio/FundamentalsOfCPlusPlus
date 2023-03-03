@@ -1,3 +1,5 @@
+#Increment Calculation
+
 Hexon Technologies is in the process of revising the salary of their employees. The revision is done on their salary, based on their performance appraisal rating.
 
 If the appraisal rating is between 1 and 3, the increment is 10% of the salary.
