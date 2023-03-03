@@ -1,4 +1,4 @@
-# Display Calculation
+# Display Characters
 
 Ralph wants to build a magic board that displays a character that corresponds to the given number (that is the ASCII value of the given character)for his science exhibition. Help him to develop such an application. 
 
