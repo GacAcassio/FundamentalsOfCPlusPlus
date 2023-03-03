@@ -1,3 +1,5 @@
+# Salary Information
+
 Zeo Corporation wants to automate its Payroll. As part of this, they seek to compute the monthly salary of each of their employees. Write a code that will accept the Employee ID, total hours worked for the month, and the hourly salary rate (in USD). Display the Employee ID and salary to be paid.
 
 Note: 
