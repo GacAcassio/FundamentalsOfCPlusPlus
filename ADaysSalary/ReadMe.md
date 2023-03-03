@@ -1,3 +1,5 @@
+# A Day's Salary
+
 The annual income of the employees is maintained by the company accountant. Help the accountant to find a day's salary of the employees to calculate the loss of pay at the end of the year. Write a C++ program to find a day's salary.
 
 Note: 
