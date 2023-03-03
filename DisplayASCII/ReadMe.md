@@ -1,3 +1,5 @@
+# Display ASII
+
 Rosh wants to build a magic board that displays ASCII values of the alphabets entered. Help him to develop such an application using C++. 
 
 The ASCII value of the lowercase alphabets is from 97 to 122 (a-z) and the ASCII value of the uppercase alphabets is from 65 to 90 (A-Z).
