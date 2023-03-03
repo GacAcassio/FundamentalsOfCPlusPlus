@@ -1,4 +1,4 @@
-#Increment Calculation#
+# Increment Calculation
 
 Hexon Technologies is in the process of revising the salary of their employees. The revision is done on their salary, based on their performance appraisal rating.
 
