@@ -1,4 +1,4 @@
-# s String Length
+# String Length
 
 Write a program to calculate the length of the string using a pointer. Get the input string from the user and pass this string to the function. 
 
