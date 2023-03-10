@@ -1,4 +1,4 @@
-# lLowest Mark In Each Semester
+# Lowest Mark In Each Semester
 
 ames is creating an application that can work with the semester marks of the university students scored in different subjects. There is a requirement from the principal to analyze the minimum marks scored in each semester. Help James to develop a C++ application for this requirement.
 
